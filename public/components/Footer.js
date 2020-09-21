@@ -1,4 +1,4 @@
-"use strict";
+
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
@@ -23,4 +23,5 @@ function Footer(_a) {
             </FilterLink_1.FilterLink>
         </p>);
 }
+
 exports.default = Footer;
